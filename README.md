@@ -27,7 +27,7 @@ This **Finance KPI Dashboard** is built using **Power BI** to provide actionable
 - **DAX (Data Analysis Expressions)** – Advanced calculations
 
 ## 📸 Preview
-![Dashboard Preview](./Dashboard.png)
+![Dashboard Preview](https://github.com/HasiiPerera/Finance-KPI-Dashboard/blob/main/Dashboard.png)
 
 ## 📈 Insights & Use Cases
 - Track sales performance trends over time
